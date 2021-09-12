@@ -1,11 +1,16 @@
-HTTrack3.49-2+htsswf+htsjava launched on Fri, 28 Dec 2018 10:21:09 at http://robloxgenerator.online/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
-(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://robloxgenerator.online/ -O1 "C:\My Web Sites\roblox new generator" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 18 Jun 2019 16:25:30 at http://arbx.club/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://arbx.club/ -O1 "C:\My Web Sites\roblox 3" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
 
 Information, Warnings and Errors reported for this mirror:
 note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
 	such as username/password authentication for websites mirrored in this project
 	do not share these files/folders if you want these information to remain private
 
+16:26:29	Warning: 	Retry after error -4 (No data (connection closed)) at link arbx.club/images/glyphicons-halflings-regular.eot (from arbx.club/images/bootstrap.min.css)
+16:26:29	Warning: 	File not parsed, looks like binary: arbx.club/bebasneue_bold-webfont.html
+16:26:29	Warning: 	Warning: store application/octet-stream without scan: C:/My Web Sites/roblox 3/arbx.club/bebasneue_bold-webfont.html
+16:26:29	Warning: 	File not parsed, looks like binary: arbx.club/bebasneue_regular-webfont.html
+16:26:29	Warning: 	Warning: store application/octet-stream without scan: C:/My Web Sites/roblox 3/arbx.club/bebasneue_regular-webfont.html
 
-HTTrack Website Copier/3.49-2 mirror complete in 50 seconds : 8 links scanned, 7 files written (1196137 bytes overall) [1192798 bytes received at 23855 bytes/sec], 10507 bytes transferred using HTTP compression in 2 files, ratio 35%, 1.6 requests per connection
-(No errors, 0 warnings, 0 messages)
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 32 seconds : 65 links scanned, 63 files written (3254418 bytes overall) [2213304 bytes received at 24057 bytes/sec], 1603813 bytes transferred using HTTP compression in 31 files, ratio 33%, 10.8 requests per connection
+(No errors, 5 warnings, 0 messages)
